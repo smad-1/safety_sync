@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845540653954",
+    "project_id": "safety-sync-210dd",
+    "storage_bucket": "safety-sync-210dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845540653954:android:280cb433117bb0f0fc2d9b",
+        "android_client_info": {
+          "package_name": "com.example.safety_sync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845540653954-s7jk1o5a29l22m0mnh4pcnej9mmbk0gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUJwS7vIgD5b11-WQRNOkab4q1dfHuqvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845540653954-s7jk1o5a29l22m0mnh4pcnej9mmbk0gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
